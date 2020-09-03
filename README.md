@@ -1,7 +1,7 @@
 # Jasmine Feedreader Testing
 
 A web-based application that reads RSS feeds. Using Jasmine, we provide an testing environment for the application.
-This project is for the Udacity Fron-End Nanodegree.
+This project is for the Udacity Front-End Nanodegree.
 
 ## To Run the FeedReader and Testing
 
